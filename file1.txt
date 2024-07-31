@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 testing line 
-=======
 antesting
->>>>>>> d2354fd42855340ceb7dafa55c72c98fe9f5c459
 456
 789.
 Add Line
